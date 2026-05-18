@@ -96,5 +96,5 @@ This project is open for educational use.
 
 ## Output
 
-<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/dbf5fce9-5d6d-4b85-a8fe-4f14b3ad2054" />
+<img width="1911" height="981" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/179490f4-b8aa-45fa-aa68-177ed69588eb" />
 
