@@ -92,4 +92,9 @@ streamlit run app.py
 
 ## License
 
-This project is open for personal and educational use. Add a license file if you want to publish it with a specific license.
+This project is open for educational use.
+
+## Output
+
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/dbf5fce9-5d6d-4b85-a8fe-4f14b3ad2054" />
+
